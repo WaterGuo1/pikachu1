@@ -1,0 +1,7 @@
+6
+52C:\Users\Hiashui\Desktop\pikachu1\pikachu\src\css.js132838765498981703 0
+56C:\Users\Hiashui\Desktop\pikachu1\pikachu\src\index.html132838765498981703 0
+53C:\Users\Hiashui\Desktop\pikachu1\pikachu\src\main.js132840529498114731 0
+55C:\Users\Hiashui\Desktop\pikachu1\pikachu\src\style.css132838765498991710 0
+55C:\Users\Hiashui\Desktop\pikachu1\pikachu\src\test.html132838784280357417 0
+53C:\Users\Hiashui\Desktop\pikachu1\pikachu\src\test.js132840529116167842 0
